@@ -17,8 +17,8 @@ This project consists of a simple website designed using HTML and CSS. The websi
 ## Features
 - Responsive design that adapts to different screen sizes.
 - Simple navigation menu for easy access to each page.
-- Content sections divided into left and right areas.
-- Member page displaying a grid of member cards.
+- Content sections are divided into left and right areas.
+- The member page displays a grid of member cards.
 
 ## Technologies Used
 - HTML5
@@ -26,7 +26,5 @@ This project consists of a simple website designed using HTML and CSS. The websi
 
 ## How to Use
 1. Clone or download the repository to your local machine.
-2. Open any of the HTML files in a web browser to view the website.
+2. Open any HTML files in a web browser to view the website.
 3. Customize content and styles as needed.
-
-## Directory Structure
